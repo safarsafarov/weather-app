@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeatherApp
 //
-//  Created by Safar Safarov on 19/12/22.
+//  Created by Safar Safarov on 23/12/22.
 //
 
 import SwiftUI
@@ -18,6 +18,7 @@ struct ContentView: View {
         .padding()
     }
 }
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

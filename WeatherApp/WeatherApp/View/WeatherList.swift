@@ -2,7 +2,7 @@
 //  WeatherList.swift
 //  WeatherApp
 //
-//  Created by Safar Safarov on 19/12/22.
+//  Created by Safar Safarov on 23/12/22.
 //
 
 import SwiftUI
